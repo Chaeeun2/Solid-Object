@@ -1,0 +1,71 @@
+#body {
+	background: #2224f4;
+}
+
+body, html {
+	margin: 0;
+}
+
+#click1, #click2, #click3, #click4 {
+	text-align: center;
+	font-size: 4.5vw;
+	font-weight: 600;
+	font-family: SUIT;
+	color: transparent;
+	background: transparent;
+	border: 0.1em solid white;
+	width: 500px;
+	height: 100px;
+	display: flex;
+	justify-content: space-between;
+}
+
+#click1, #click2, #click3 {
+	margin-right: 10px;
+}
+
+#click1 {
+	border: 0.1em solid white;
+}
+
+#click2, #click3, #click4 {
+	border: 0.1em solid transparent;
+}
+
+.click {
+	height: 100px;
+	display: inline-block;
+	margin-left: 115px;
+	margin-right: 115px;
+	margin-top: 50px;
+	display: flex;
+	justify-content: space-between;
+}
+
+h1 {
+	padding-top: 80px;
+	padding-left: 80px;
+	padding-right: 80px;
+	font-size: 4vw;
+	font-family: SUIT;
+	font-weight: 600;
+	color: white;
+	display: flex;
+}
+
+#txt1,#txt2,#txt3,#txt4 {
+	margin: 0.3em 0.5em;
+}
+
+span {
+	color: #2224f4;
+	background: white;
+	padding: 5px 10px;
+	font-family: SUIT;
+	font-weight: 600;
+	letter-spacing: -0.5px;
+}
+
+#txt2,#txt3,#txt4 {
+	display: none;
+}
