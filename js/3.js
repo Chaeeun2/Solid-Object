@@ -13,7 +13,7 @@
 
 function typing1(){
 
-	document.getElementById('body').style.background = "url('bg2.jpg')"
+	document.getElementById('body').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/e4fbaf7d79823.jpg')"
 	document.getElementById('text2').style.display = "block"
 	document.getElementById('click1').style.display = "none"
 	document.getElementById('click2').style.display = "block"
@@ -34,7 +34,7 @@ function typing1(){
 
 function typing2(){
 
-	document.getElementById('body').style.background = "url('bg3.jpg')"
+	document.getElementById('body').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/5059daf93f976.jpg')"
 	document.getElementById('text3').style.display = "block"
 	document.getElementById('click2').style.display = "none"
 	document.getElementById('click3').style.display = "block"
@@ -55,7 +55,7 @@ function typing2(){
 
 function typing3(){
 
-	document.getElementById('body').style.background = "url('bg4.jpg')"
+	document.getElementById('body').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/946ef8a751b87.jpg')"
 	document.getElementById('text4').style.display = "block"
 	document.getElementById('click3').style.display = "none"
 	document.getElementById('click4').style.display = "block"
@@ -98,7 +98,7 @@ function typing4(){
 
 function typing5(){
 
-location.href="file:///Users/lyuchaeeun/Desktop/1.%20VD3/03_%E1%84%91%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%B5%E1%86%B8%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%91%E1%85%B5/0422_Week%208/web/4/index4.html"
+location.href="4.html"
 
 }
 
