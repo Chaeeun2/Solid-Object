@@ -77,4 +77,3 @@ function typing4(){
 location.href="2.html"
 
 }
-
