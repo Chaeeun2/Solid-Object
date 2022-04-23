@@ -28,7 +28,7 @@ html {
 	font-family: SUIT;
 	color: transparent;
 	background: transparent;
-	border: 0.1em solid white;
+	border: 0.11em solid white;
 	mix-blend-mode: difference;
 }
 
@@ -88,7 +88,7 @@ p {
 	#click4,
 	#click5,
 	#click6 {
-		font-size: 8.5vw;
+		font-size: 8.6vw;
 	}
 
 	h1 {

@@ -46,6 +46,9 @@ h1 {
 
 
 @media screen and (max-width: 900px) {
+	#text {
+		padding: 3px 0px;
+	}
 
 	h1 {
 		padding-top: 0.7em;
@@ -59,9 +62,9 @@ h1 {
 		font-family: SUIT;
 		color: transparent;
 		background: transparent;
-		border: 0.1em solid white;
-		margin-left: 2.25em;
-		margin-right: 2.25em;
+		border: 0.08em solid white;
+		margin-left: 2.3em;
+		margin-right: 2.3em;
 		margin-top: 1em;
 	}
 }
