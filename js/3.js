@@ -19,7 +19,7 @@ if (windowWidth.matches) {
 	//screen and (max-width: 768px)에 해당한다.
 	function typing1() {
 
-		document.getElementById('html').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/8cb82f76d282e.jpg')"
+		document.getElementById('html').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/e4fbaf7d79823.jpg')"
 		document.getElementById('html').style.backgroundSize = "cover"
 		document.getElementById('html').style.backgroundPosition = "center top"
 		document.getElementById('html').style.backgroundRepeat = "no-repeat"
@@ -43,7 +43,7 @@ if (windowWidth.matches) {
 
 	function typing2() {
 
-		document.getElementById('html').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/ffcbf5143073c.jpg')"
+		document.getElementById('html').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/5059daf93f976.jpg')"
 		document.getElementById('html').style.backgroundSize = "cover"
 		document.getElementById('html').style.backgroundPosition = "center top"
 		document.getElementById('html').style.backgroundRepeat = "no-repeat"
@@ -67,7 +67,7 @@ if (windowWidth.matches) {
 
 	function typing3() {
 
-		document.getElementById('html').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/1d6c4dd98f7d6.jpg')"
+		document.getElementById('html').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/946ef8a751b87.jpg')"
 		document.getElementById('html').style.backgroundSize = "cover"
 		document.getElementById('html').style.backgroundPosition = "center top"
 		document.getElementById('html').style.backgroundRepeat = "no-repeat"
@@ -122,7 +122,7 @@ if (windowWidth.matches) {
 else {
 	function typing1() {
 
-		document.getElementById('html').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/e4fbaf7d79823.jpg')"
+		document.getElementById('html').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/8cb82f76d282e.jpg')"
 		document.getElementById('html').style.backgroundSize = "cover"
 		document.getElementById('html').style.backgroundPosition = "center top"
 		document.getElementById('html').style.backgroundRepeat = "no-repeat"
@@ -146,7 +146,7 @@ else {
 
 	function typing2() {
 
-		document.getElementById('html').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/5059daf93f976.jpg')"
+		document.getElementById('html').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/ffcbf5143073c.jpg')"
 		document.getElementById('html').style.backgroundSize = "cover"
 		document.getElementById('html').style.backgroundPosition = "center top"
 		document.getElementById('html').style.backgroundRepeat = "no-repeat"
@@ -170,7 +170,7 @@ else {
 
 	function typing3() {
 
-		document.getElementById('html').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/946ef8a751b87.jpg')"
+		document.getElementById('html').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/1d6c4dd98f7d6.jpg')"
 		document.getElementById('html').style.backgroundSize = "cover"
 		document.getElementById('html').style.backgroundPosition = "center top"
 		document.getElementById('html').style.backgroundRepeat = "no-repeat"
