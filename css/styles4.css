@@ -2,11 +2,15 @@
 	background: #2224f4;
 }
 
-body, html {
+body,
+html {
 	margin: 0;
 }
 
-#click1, #click2, #click3, #click4 {
+#click1,
+#click2,
+#click3,
+#click4 {
 	text-align: center;
 	font-size: 4.5vw;
 	font-weight: 700;
@@ -20,7 +24,9 @@ body, html {
 	justify-content: space-between;
 }
 
-#click1, #click2, #click3 {
+#click1,
+#click2,
+#click3 {
 	margin-right: 10px;
 }
 
@@ -28,7 +34,9 @@ body, html {
 	border: 0.1em solid white;
 }
 
-#click2, #click3, #click4 {
+#click2,
+#click3,
+#click4 {
 	border: 0.1em solid transparent;
 }
 
@@ -53,7 +61,10 @@ h1 {
 	display: flex;
 }
 
-#txt1,#txt2,#txt3,#txt4 {
+#txt1,
+#txt2,
+#txt3,
+#txt4 {
 	margin: 0.8em 0.3em;
 }
 
@@ -66,6 +77,88 @@ span {
 	letter-spacing: -0.5px;
 }
 
-#txt2,#txt3,#txt4 {
+#txt2,
+#txt3,
+#txt4 {
 	display: none;
+}
+
+.clickmo {
+	display: none;
+}
+
+
+@media screen and (max-width: 900px) {
+	.click {
+		display: none;
+	}
+
+	#click1mo,
+	#click2mo,
+	#click3mo,
+	#click4mo {
+		text-align: center;
+		font-size: 8vw;
+		font-weight: 700;
+		font-family: SUIT;
+		color: transparent;
+		background: transparent;
+		border: 0.1em solid white;
+		width: 2.48em;
+		height: 2.5em;
+		display: flex;
+		justify-content: space-between;
+	}
+
+	#click1mo,
+	#click2mo,
+	#click3mo {
+		margin-right: 0.25em;
+	}
+
+	#click1mo {
+		border: 0.1em solid white;
+		margin-left: 0.4em;
+	}
+
+	#click2mo,
+	#click3mo,
+	#click4mo {
+		border: 0.1em solid transparent;
+	}
+
+	#click4mo {
+		margin-right: 0.4em;
+	}
+
+	.clickmo {
+		height: 100px;
+		display: inline-block;
+		margin-left: 0.3em;
+		margin-right: 0.2em;
+		margin-top: 1em;
+		display: flex;
+		justify-content: space-between;
+		position: fixed;
+		bottom: 9em;
+	}
+
+	h1 {
+		padding-top: 0.5em;
+		padding-left: 0.3em;
+		padding-right: 0.2em;
+		font-size: 9.2vw;
+		font-family: SUIT;
+		font-weight: 700;
+		color: white;
+		display: flex;
+	}
+
+	#txt1,
+	#txt2,
+	#txt3,
+	#txt4 {
+		margin-top: 0.5em;
+		margin-right: 0.25em;
+	}
 }
