@@ -11,7 +11,7 @@ function typing() {
 }
 setInterval(typing, 170)
 
-
+const windowWidth = window.matchMedia("(min-width: 900px)");
 
 
 
