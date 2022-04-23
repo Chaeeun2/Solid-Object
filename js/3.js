@@ -1,20 +1,24 @@
 var windowWidth = window.matchMedia("screen and (max-width: 900px)");
 
+const content = "물은 차갑게 얼 때 더 조심해야 돼.       "
+const text = document.querySelector("#text1")
+let index = 0;
+
+
+function typing() {
+	text.textContent += content[index++]
+	if (index > content.length) {
+		text.textContent = "걔는 차갑게 굴 때 더 조심해야 돼. "
+	}
+}
+setInterval(typing, 170)
+
+
+
+
+
 if (windowWidth.matches) {
 	//screen and (max-width: 768px)에 해당한다.
-	const content = "물은 차갑게 얼 때 더 조심해야 돼.       "
-	const text = document.querySelector("#text1")
-	let index = 0;
-
-	function typing() {
-		text.textContent += content[index++]
-		if (index > content.length) {
-			text.textContent = "걔는 차갑게 굴 때 더 조심해야 돼. "
-		}
-	}
-	setInterval(typing, 170)
-
-
 	function typing1() {
 
 		document.getElementById('body').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/8cb82f76d282e.jpg')"
@@ -118,19 +122,6 @@ if (windowWidth.matches) {
 }
 
 else {
-	const content = "물은 차갑게 얼 때 더 조심해야 돼.       "
-	const text = document.querySelector("#text1")
-	let index = 0;
-
-	function typing() {
-		text.textContent += content[index++]
-		if (index > content.length) {
-			text.textContent = "걔는 차갑게 굴 때 더 조심해야 돼. "
-		}
-	}
-	setInterval(typing, 170)
-
-
 	function typing1() {
 
 		document.getElementById('body').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/e4fbaf7d79823.jpg')"

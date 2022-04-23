@@ -85,7 +85,7 @@ p {
 	#click4,
 	#click5,
 	#click6 {
-		font-size: 8vw;
+		font-size: 8.5vw;
 	}
 
 	h1 {
@@ -93,8 +93,20 @@ p {
 		font-size: 9vw;
 	}
 
-	span {
-		padding: 3px 10px;
+	#text1,
+	#text2,
+	#text3,
+	#text4,
+	#text5,
+	#text6 {
+		color: black;
+		background: white;
+		font-family: SUIT;
+		font-weight: 700;
+		letter-spacing: -0.5px;
+		mix-blend-mode: difference;
+		padding: 5px 10px;
+		margin-bottom: 0.1em;
 	}
 
 	#body {

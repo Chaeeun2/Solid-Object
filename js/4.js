@@ -1,20 +1,22 @@
+const content = "근데 나는 물 좋아해.       "
+const text = document.querySelector("#text1")
+let index = 0;
+
+function typing() {
+	text.textContent += content[index++]
+	if (index > content.length) {
+		text.textContent = "근데 나는 걔 좋아해."
+	}
+}
+setInterval(typing, 170)
+
+
+
+
+
 var windowWidth = window.matchMedia("screen and (max-width: 900px)");
 
 if (windowWidth.matches) {
-	const content = "근데 나는 물 좋아해.       "
-	const text = document.querySelector("#text1")
-	let index = 0;
-
-	function typing() {
-		text.textContent += content[index++]
-		if (index > content.length) {
-			text.textContent = "근데 나는 걔 좋아해."
-		}
-	}
-	setInterval(typing, 170)
-
-
-
 	function typing1() {
 		document.getElementById('txt2').style.display = "block"
 		document.getElementById('click1mo').style.border = '0.1em solid transparent'
@@ -77,20 +79,6 @@ if (windowWidth.matches) {
 }
 
 else {
-	const content = "근데 나는 물 좋아해.       "
-	const text = document.querySelector("#text1")
-	let index = 0;
-
-	function typing() {
-		text.textContent += content[index++]
-		if (index > content.length) {
-			text.textContent = "근데 나는 걔 좋아해."
-		}
-	}
-	setInterval(typing, 170)
-
-
-
 	function typing1() {
 		document.getElementById('txt2').style.display = "block"
 		document.getElementById('click1').style.border = '0.1em solid transparent'

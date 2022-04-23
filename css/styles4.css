@@ -158,7 +158,16 @@ span {
 	#txt2,
 	#txt3,
 	#txt4 {
-		margin-top: 0.5em;
+		margin-top: 0.2em;
 		margin-right: 0.25em;
+	}
+
+	span {
+		color: #2224f4;
+		background: white;
+		padding: 10px 5px;
+		font-family: SUIT;
+		font-weight: 700;
+		letter-spacing: -0.5px;
 	}
 }
