@@ -66,8 +66,8 @@ p {
 
 @media screen and (max-width: 900px) {
 	.text {
-		margin-left: 1em;
-		margin-right: 0.7em;
+		margin-left: 0.7em;
+		margin-right: 0.5em;
 	}
 
 	#click1,
