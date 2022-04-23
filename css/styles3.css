@@ -8,6 +8,7 @@
 body,
 html {
 	margin: 0;
+	height: 100vh;
 }
 
 .text {
@@ -87,12 +88,12 @@ p {
 	#click4,
 	#click5,
 	#click6 {
-		font-size: 8.5vw;
+		font-size: 7.5vw;
 	}
 
 	h1 {
 		margin-top: 1.5em;
-		font-size: 9vw;
+		font-size: 8.2vw;
 	}
 
 	#text1,
@@ -111,7 +112,7 @@ p {
 		margin-bottom: 0.1em;
 	}
 
-	#body {
+	#html {
 		background: url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/0e7314c227284.jpg');
 		background-size: cover;
 		background-position: center top;

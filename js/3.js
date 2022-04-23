@@ -1,5 +1,3 @@
-var windowWidth = window.matchMedia("screen and (max-width: 900px)");
-
 const content = "물은 차갑게 얼 때 더 조심해야 돼.       "
 const text = document.querySelector("#text1")
 let index = 0;
