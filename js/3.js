@@ -21,10 +21,10 @@ if (windowWidth.matches) {
 	//screen and (max-width: 768px)에 해당한다.
 	function typing1() {
 
-		document.getElementById('body').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/8cb82f76d282e.jpg')"
-		document.getElementById('body').style.backgroundSize = "cover"
-		document.getElementById('body').style.backgroundPosition = "center top"
-		document.getElementById('body').style.backgroundRepeat = "no-repeat"
+		document.getElementById('html').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/8cb82f76d282e.jpg')"
+		document.getElementById('html').style.backgroundSize = "cover"
+		document.getElementById('html').style.backgroundPosition = "center top"
+		document.getElementById('html').style.backgroundRepeat = "no-repeat"
 		document.getElementById('text2').style.display = "block"
 		document.getElementById('click1').style.display = "none"
 		document.getElementById('click2').style.display = "block"
@@ -45,10 +45,10 @@ if (windowWidth.matches) {
 
 	function typing2() {
 
-		document.getElementById('body').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/ffcbf5143073c.jpg')"
-		document.getElementById('body').style.backgroundSize = "cover"
-		document.getElementById('body').style.backgroundPosition = "center top"
-		document.getElementById('body').style.backgroundRepeat = "no-repeat"
+		document.getElementById('html').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/ffcbf5143073c.jpg')"
+		document.getElementById('html').style.backgroundSize = "cover"
+		document.getElementById('html').style.backgroundPosition = "center top"
+		document.getElementById('html').style.backgroundRepeat = "no-repeat"
 		document.getElementById('text3').style.display = "block"
 		document.getElementById('click2').style.display = "none"
 		document.getElementById('click3').style.display = "block"
@@ -69,10 +69,10 @@ if (windowWidth.matches) {
 
 	function typing3() {
 
-		document.getElementById('body').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/1d6c4dd98f7d6.jpg')"
-		document.getElementById('body').style.backgroundSize = "cover"
-		document.getElementById('body').style.backgroundPosition = "center top"
-		document.getElementById('body').style.backgroundRepeat = "no-repeat"
+		document.getElementById('html').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/1d6c4dd98f7d6.jpg')"
+		document.getElementById('html').style.backgroundSize = "cover"
+		document.getElementById('html').style.backgroundPosition = "center top"
+		document.getElementById('html').style.backgroundRepeat = "no-repeat"
 		document.getElementById('text4').style.display = "block"
 		document.getElementById('click3').style.display = "none"
 		document.getElementById('click4').style.display = "block"
@@ -93,7 +93,7 @@ if (windowWidth.matches) {
 
 	function typing4() {
 
-		document.getElementById('body').style.background = "#2224f4"
+		document.getElementById('html').style.background = "#2224f4"
 		document.getElementById('text5').style.display = "block"
 		document.getElementById('click4').style.display = "none"
 		document.getElementById('click5').style.display = "block"
@@ -124,10 +124,10 @@ if (windowWidth.matches) {
 else {
 	function typing1() {
 
-		document.getElementById('body').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/e4fbaf7d79823.jpg')"
-		document.getElementById('body').style.backgroundSize = "cover"
-		document.getElementById('body').style.backgroundPosition = "center top"
-		document.getElementById('body').style.backgroundRepeat = "no-repeat"
+		document.getElementById('html').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/e4fbaf7d79823.jpg')"
+		document.getElementById('html').style.backgroundSize = "cover"
+		document.getElementById('html').style.backgroundPosition = "center top"
+		document.getElementById('html').style.backgroundRepeat = "no-repeat"
 		document.getElementById('text2').style.display = "block"
 		document.getElementById('click1').style.display = "none"
 		document.getElementById('click2').style.display = "block"
@@ -148,10 +148,10 @@ else {
 
 	function typing2() {
 
-		document.getElementById('body').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/5059daf93f976.jpg')"
-		document.getElementById('body').style.backgroundSize = "cover"
-		document.getElementById('body').style.backgroundPosition = "center top"
-		document.getElementById('body').style.backgroundRepeat = "no-repeat"
+		document.getElementById('html').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/5059daf93f976.jpg')"
+		document.getElementById('html').style.backgroundSize = "cover"
+		document.getElementById('html').style.backgroundPosition = "center top"
+		document.getElementById('html').style.backgroundRepeat = "no-repeat"
 		document.getElementById('text3').style.display = "block"
 		document.getElementById('click2').style.display = "none"
 		document.getElementById('click3').style.display = "block"
@@ -172,10 +172,10 @@ else {
 
 	function typing3() {
 
-		document.getElementById('body').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/946ef8a751b87.jpg')"
-		document.getElementById('body').style.backgroundSize = "cover"
-		document.getElementById('body').style.backgroundPosition = "center top"
-		document.getElementById('body').style.backgroundRepeat = "no-repeat"
+		document.getElementById('html').style.background = "url('https://cdn.imweb.me/upload/S2022030222ee0b2e93de0/946ef8a751b87.jpg')"
+		document.getElementById('html').style.backgroundSize = "cover"
+		document.getElementById('html').style.backgroundPosition = "center top"
+		document.getElementById('html').style.backgroundRepeat = "no-repeat"
 		document.getElementById('text4').style.display = "block"
 		document.getElementById('click3').style.display = "none"
 		document.getElementById('click4').style.display = "block"
@@ -196,7 +196,7 @@ else {
 
 	function typing4() {
 
-		document.getElementById('body').style.background = "#2224f4"
+		document.getElementById('html').style.background = "#2224f4"
 		document.getElementById('text5').style.display = "block"
 		document.getElementById('click4').style.display = "none"
 		document.getElementById('click5').style.display = "block"

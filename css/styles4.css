@@ -103,7 +103,6 @@ span {
 		font-family: SUIT;
 		color: transparent;
 		background: transparent;
-		border: 0.1em solid white;
 		width: 2.48em;
 		height: 2.5em;
 		display: flex;
@@ -140,7 +139,7 @@ span {
 		display: flex;
 		justify-content: space-between;
 		position: fixed;
-		bottom: 9em;
+		bottom: 6.5em;
 	}
 
 	h1 {
