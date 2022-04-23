@@ -66,15 +66,15 @@ p {
 
 @media screen and (max-width: 900px) {
 	.text {
-		margin-left: 50px;
-		margin-right: 40px;
+		margin-left: 1em;
+		margin-right: 0.7em;
 	}
 
 	#click1,
 	#click2,
 	#click3,
 	#click4 {
-		font-size: 8.1vw;
+		font-size: 8.8vw;
 		font-weight: 700;
 		font-family: SUIT;
 		color: transparent;
@@ -83,8 +83,8 @@ p {
 	}
 
 	h1 {
-		margin-top: 80px;
-		font-size: 9vw;
+		margin-top: 1.5em;
+		font-size: 9.7vw;
 		font-family: SUIT;
 		font-weight: 700;
 		color: white;
