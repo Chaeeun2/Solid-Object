@@ -1,0 +1,367 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-underline-position"
+			],
+			[
+				"text-",
+				"text-underline-position"
+			],
+			[
+				"onmouse",
+				"onmouseenter"
+			],
+			[
+				"get",
+				"getElementById"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/2.js",
+			"settings":
+			{
+				"buffer_size": 2623,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git:",
+				"Git: Init"
+			],
+			[
+				"Install Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"packge",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"install package",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+			"$ git init"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web2",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web2/js"
+	],
+	"file_history":
+	[
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/index7.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/index1.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/5.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/2.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/1.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/styles.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/4.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/3.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/js/index9.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/index9.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/js/index8.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/index8.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/js/index7.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/js/index6.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/index6.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/index5.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/js/index5.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/js/index4.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/js/index3.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/js/index.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/js/index2.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/index4.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/index3.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/001.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/002.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/index2.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/index.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/005.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/005.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/index3.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/index2.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0527_Week 13/web/index.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/001.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/index.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/index.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/index3.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/index2.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/index2 복사본.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/index2.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/004.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/003.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/002.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/001/001.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/004/004.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/002/002.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/003/003.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0415_Week 7/text1/index.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0415_Week 7/text1/index.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/01_창의적디자인리서치/0419_Week7/web/untitled.sublime-project",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/5/index5.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/5/styles5.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/5/index5.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/3/index3.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/4/index4.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/4/index4.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/4/styles4.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/3/index3.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/2/index2.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/2/styles2.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/2/index2.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/3/styles3.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/1/styles.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/1/index.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/1/index.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/01_창의적디자인리서치/0419_Week7/web/styles.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/1/2/3/index3.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/1/2/3/index3.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/1/2/index2.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/1/2/index2.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/1/2/styles2.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/#web/index.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/index.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/css/styles.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/index.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/01_창의적디자인리서치/0419_Week7/web/css/styles.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0415_Week 7/text1/css/styles.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0415_Week 7/text1/index2.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0415_Week 7/text1/index2.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0415_Week 7/text3/index.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0415_Week 7/text1/css/styles2.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0415_Week 7/text2/index.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0415_Week 7/text2/css/styles.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0415_Week 7/text2/index.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/text1/index.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/text1/index.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/text2/css/styles.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/text2/index.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/text1/css/styles.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/intro/css/style.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/intro/index2.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/text2/index.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/web2/index.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/web2/css/styles.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/web/css/styles.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/web/index.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/web2/index.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/web/bg2.jpg",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/test/index2.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/test/css/style.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/test/style.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/index.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/css/styles.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/index.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/2.js",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								335,
+								392
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 191.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 28.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
